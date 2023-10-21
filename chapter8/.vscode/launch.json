@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: chapter8",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/chapter8.csproj",
+            "launchConfigurationId": "TargetFramework=;chapter8"
+        }
+    ]
+}

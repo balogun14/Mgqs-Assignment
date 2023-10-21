@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C#: chapter6",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/chapter6.csproj",
+            "launchConfigurationId": "TargetFramework=;chapter6"
+        }
+    ]
+}

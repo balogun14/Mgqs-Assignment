@@ -1,0 +1,14 @@
+/home/awwal/Desktop/C#_Projects/chapter6/bin/Debug/net7.0/chapter6
+/home/awwal/Desktop/C#_Projects/chapter6/bin/Debug/net7.0/chapter6.deps.json
+/home/awwal/Desktop/C#_Projects/chapter6/bin/Debug/net7.0/chapter6.runtimeconfig.json
+/home/awwal/Desktop/C#_Projects/chapter6/bin/Debug/net7.0/chapter6.dll
+/home/awwal/Desktop/C#_Projects/chapter6/bin/Debug/net7.0/chapter6.pdb
+/home/awwal/Desktop/C#_Projects/chapter6/obj/Debug/net7.0/chapter6.GeneratedMSBuildEditorConfig.editorconfig
+/home/awwal/Desktop/C#_Projects/chapter6/obj/Debug/net7.0/chapter6.AssemblyInfoInputs.cache
+/home/awwal/Desktop/C#_Projects/chapter6/obj/Debug/net7.0/chapter6.AssemblyInfo.cs
+/home/awwal/Desktop/C#_Projects/chapter6/obj/Debug/net7.0/chapter6.csproj.CoreCompileInputs.cache
+/home/awwal/Desktop/C#_Projects/chapter6/obj/Debug/net7.0/chapter6.dll
+/home/awwal/Desktop/C#_Projects/chapter6/obj/Debug/net7.0/refint/chapter6.dll
+/home/awwal/Desktop/C#_Projects/chapter6/obj/Debug/net7.0/chapter6.pdb
+/home/awwal/Desktop/C#_Projects/chapter6/obj/Debug/net7.0/chapter6.genruntimeconfig.cache
+/home/awwal/Desktop/C#_Projects/chapter6/obj/Debug/net7.0/ref/chapter6.dll

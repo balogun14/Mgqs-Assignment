@@ -1,0 +1,14 @@
+/home/awwal/Desktop/C#_Projects/chapter3/chapter3/bin/Debug/net7.0/chapter3
+/home/awwal/Desktop/C#_Projects/chapter3/chapter3/bin/Debug/net7.0/chapter3.deps.json
+/home/awwal/Desktop/C#_Projects/chapter3/chapter3/bin/Debug/net7.0/chapter3.runtimeconfig.json
+/home/awwal/Desktop/C#_Projects/chapter3/chapter3/bin/Debug/net7.0/chapter3.dll
+/home/awwal/Desktop/C#_Projects/chapter3/chapter3/bin/Debug/net7.0/chapter3.pdb
+/home/awwal/Desktop/C#_Projects/chapter3/chapter3/obj/Debug/net7.0/chapter3.GeneratedMSBuildEditorConfig.editorconfig
+/home/awwal/Desktop/C#_Projects/chapter3/chapter3/obj/Debug/net7.0/chapter3.AssemblyInfoInputs.cache
+/home/awwal/Desktop/C#_Projects/chapter3/chapter3/obj/Debug/net7.0/chapter3.AssemblyInfo.cs
+/home/awwal/Desktop/C#_Projects/chapter3/chapter3/obj/Debug/net7.0/chapter3.csproj.CoreCompileInputs.cache
+/home/awwal/Desktop/C#_Projects/chapter3/chapter3/obj/Debug/net7.0/chapter3.dll
+/home/awwal/Desktop/C#_Projects/chapter3/chapter3/obj/Debug/net7.0/refint/chapter3.dll
+/home/awwal/Desktop/C#_Projects/chapter3/chapter3/obj/Debug/net7.0/chapter3.pdb
+/home/awwal/Desktop/C#_Projects/chapter3/chapter3/obj/Debug/net7.0/chapter3.genruntimeconfig.cache
+/home/awwal/Desktop/C#_Projects/chapter3/chapter3/obj/Debug/net7.0/ref/chapter3.dll

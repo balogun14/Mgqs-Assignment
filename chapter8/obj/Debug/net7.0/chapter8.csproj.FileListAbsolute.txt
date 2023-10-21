@@ -1,0 +1,14 @@
+/home/awwal/Desktop/C#_Projects/chapter8/bin/Debug/net7.0/chapter8
+/home/awwal/Desktop/C#_Projects/chapter8/bin/Debug/net7.0/chapter8.deps.json
+/home/awwal/Desktop/C#_Projects/chapter8/bin/Debug/net7.0/chapter8.runtimeconfig.json
+/home/awwal/Desktop/C#_Projects/chapter8/bin/Debug/net7.0/chapter8.dll
+/home/awwal/Desktop/C#_Projects/chapter8/bin/Debug/net7.0/chapter8.pdb
+/home/awwal/Desktop/C#_Projects/chapter8/obj/Debug/net7.0/chapter8.GeneratedMSBuildEditorConfig.editorconfig
+/home/awwal/Desktop/C#_Projects/chapter8/obj/Debug/net7.0/chapter8.AssemblyInfoInputs.cache
+/home/awwal/Desktop/C#_Projects/chapter8/obj/Debug/net7.0/chapter8.AssemblyInfo.cs
+/home/awwal/Desktop/C#_Projects/chapter8/obj/Debug/net7.0/chapter8.csproj.CoreCompileInputs.cache
+/home/awwal/Desktop/C#_Projects/chapter8/obj/Debug/net7.0/chapter8.dll
+/home/awwal/Desktop/C#_Projects/chapter8/obj/Debug/net7.0/refint/chapter8.dll
+/home/awwal/Desktop/C#_Projects/chapter8/obj/Debug/net7.0/chapter8.pdb
+/home/awwal/Desktop/C#_Projects/chapter8/obj/Debug/net7.0/chapter8.genruntimeconfig.cache
+/home/awwal/Desktop/C#_Projects/chapter8/obj/Debug/net7.0/ref/chapter8.dll
